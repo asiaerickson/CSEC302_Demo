@@ -1,0 +1,6 @@
+logins:
+
+Email: sdas@asdas.com, Password: asdas
+Email: asdsa@aswda.com, Password: asdas
+Email: sdfsa@kadsjhdlk.com, Password: werwer
+Email: sdafa@sdf.com, Password: sdfas
